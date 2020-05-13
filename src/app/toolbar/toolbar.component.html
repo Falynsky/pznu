@@ -1,11 +1,11 @@
-<mat-toolbar class="toolbar" color="primary" class="mat-elevation-z3">
-  <button [disableRipple]="true" mat-button class="logo-button" routerLink="/">
-    <span inline=true class="title">Zakład Modelowania i Grafiki Komputerowej</span>
-  </button>
+<mat-toolbar class="toolbar" color="primary" class="mat-elevation-z5">
+  <a class="title"> Zakład Modelowania i Grafiki Komputerowej</a>
   <div class="spacer"></div>
-  <a mat-button routerLink="/">Strona główna</a>
-  <a mat-button routerLink="research_topics">Tematyka badawcza</a>
-  <a mat-button routerLink="lecturers">Pracownicy</a>
-  <a mat-button routerLink="subjects">Przedmioty</a>
-  <a mat-raised-button routerLink="about">Kontakt</a>
+  <div class="button-row">
+    <button mat-raised-button routerLink="/" class="mat-elevation-z3">Strona główna</button>
+    <button mat-raised-button routerLink="research_topics" class="mat-elevation-z3">Tematyka badawcza</button>
+    <button mat-raised-button routerLink="lecturers" class="mat-elevation-z3">Pracownicy</button>
+    <button mat-raised-button routerLink="subjects" class="mat-elevation-z3">Przedmioty</button>
+    <button mat-raised-button routerLink="about" class="mat-elevation-z5" color="accent">Kontakt</button>
+  </div>
 </mat-toolbar>
