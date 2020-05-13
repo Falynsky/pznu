@@ -10,12 +10,15 @@ import { MainPageComponent } from './main-page/main-page.component';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
+import { FooterComponent } from './footer/footer.component';
+import {MatTooltipModule} from "@angular/material/tooltip";
 
 @NgModule({
   declarations: [
     AppComponent,
     MainPageComponent,
-    ToolbarComponent
+    ToolbarComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
@@ -24,7 +27,8 @@ import {MatButtonModule} from '@angular/material/button';
     MatToolbarModule,
     MatGridListModule,
     MatIconModule,
-    MatButtonModule
+    MatButtonModule,
+    MatTooltipModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,63 @@
+footer {
+  vertical-align: middle;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  margin-bottom: 0;
+
+
+.footer-row{
+  height: auto;
+}
+
+  .logo {
+    height: 40px;
+    width: auto;
+    vertical-align: sub;
+  }
+
+  .media {
+    height: 25px;
+
+  }
+
+  .footer-list {
+    font-size: 80%;
+    padding-top: 10px;
+    width: 100%;
+    .footer-list-part {
+      line-height: 40px;
+      display: inline;
+      vertical-align: middle;
+
+      a {
+        line-height: 40px;
+        text-decoration: none;
+        color: aliceblue;
+        img{
+          vertical-align: middle;
+          margin-right: 10px;
+        }
+      }
+    }
+
+  }
+
+  .footer-hr {
+    width: 90%;
+    text-align: center;
+
+  }
+
+  .footer-cpyrght {
+    width: 100%;
+    font-size: 60%;
+    text-align: center;
+    height: auto;
+
+  }
+  .spacer {
+    flex: 1 1 auto;
+  }
+
+}
