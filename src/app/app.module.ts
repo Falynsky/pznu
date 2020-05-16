@@ -12,13 +12,16 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
 import { FooterComponent } from './footer/footer.component';
 import {MatTooltipModule} from "@angular/material/tooltip";
+import { ContactPageComponent } from './contact-page/contact-page.component';
+import {MatCardModule} from "@angular/material/card";
 
 @NgModule({
   declarations: [
     AppComponent,
     MainPageComponent,
     ToolbarComponent,
-    FooterComponent
+    FooterComponent,
+    ContactPageComponent
   ],
   imports: [
     BrowserModule,
@@ -28,7 +31,8 @@ import {MatTooltipModule} from "@angular/material/tooltip";
     MatGridListModule,
     MatIconModule,
     MatButtonModule,
-    MatTooltipModule
+    MatTooltipModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
