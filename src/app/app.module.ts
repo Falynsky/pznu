@@ -24,8 +24,7 @@ import {MatCardModule} from "@angular/material/card";
     MainPageComponent,
     ToolbarComponent,
     FooterComponent,
-    ContactPageComponent
-    FooterComponent,
+    ContactPageComponent,
     ResearchPageComponent
   ],
   imports: [
@@ -38,8 +37,7 @@ import {MatCardModule} from "@angular/material/card";
     MatButtonModule,
     MatTooltipModule,
     MatExpansionModule,
-    MatDividerModule
-    MatTooltipModule,
+    MatDividerModule,
     MatCardModule
   ],
   providers: [],
