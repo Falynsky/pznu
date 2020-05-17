@@ -8,7 +8,7 @@ import {ContactPageComponent} from "./contact-page/contact-page.component";
 const routes: Routes = [
   {path: '', component: MainPageComponent},
   {path: 'home', component: MainPageComponent},
-  {path: 'contact', component: ContactPageComponent}
+  {path: 'contact', component: ContactPageComponent},
   {path: 'home', component: MainPageComponent},
   {path: 'research_topics', component: ResearchPageComponent}
   ];
