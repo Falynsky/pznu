@@ -12,13 +12,17 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
 import { FooterComponent } from './footer/footer.component';
 import {MatTooltipModule} from "@angular/material/tooltip";
+import { ResearchPageComponent } from './research-page/research-page.component';
+import {MatExpansionModule} from "@angular/material/expansion";
+import {MatDividerModule} from "@angular/material/divider";
 
 @NgModule({
   declarations: [
     AppComponent,
     MainPageComponent,
     ToolbarComponent,
-    FooterComponent
+    FooterComponent,
+    ResearchPageComponent
   ],
   imports: [
     BrowserModule,
@@ -28,7 +32,9 @@ import {MatTooltipModule} from "@angular/material/tooltip";
     MatGridListModule,
     MatIconModule,
     MatButtonModule,
-    MatTooltipModule
+    MatTooltipModule,
+    MatExpansionModule,
+    MatDividerModule
   ],
   providers: [],
   bootstrap: [AppComponent]
