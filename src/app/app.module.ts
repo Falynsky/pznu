@@ -15,12 +15,16 @@ import {MatTooltipModule} from "@angular/material/tooltip";
 import { ResearchPageComponent } from './research-page/research-page.component';
 import {MatExpansionModule} from "@angular/material/expansion";
 import {MatDividerModule} from "@angular/material/divider";
+import { ContactPageComponent } from './contact-page/contact-page.component';
+import {MatCardModule} from "@angular/material/card";
 
 @NgModule({
   declarations: [
     AppComponent,
     MainPageComponent,
     ToolbarComponent,
+    FooterComponent,
+    ContactPageComponent
     FooterComponent,
     ResearchPageComponent
   ],
@@ -35,6 +39,8 @@ import {MatDividerModule} from "@angular/material/divider";
     MatTooltipModule,
     MatExpansionModule,
     MatDividerModule
+    MatTooltipModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
