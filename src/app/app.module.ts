@@ -18,6 +18,8 @@ import {MatDividerModule} from "@angular/material/divider";
 import { ContactPageComponent } from './contact-page/contact-page.component';
 import {MatCardModule} from "@angular/material/card";
 import { EmployeePageComponent } from './employee-page/employee-page.component';
+import { HttpClientModule} from '@angular/common/http';
+
 
 @NgModule({
   declarations: [
@@ -40,7 +42,8 @@ import { EmployeePageComponent } from './employee-page/employee-page.component';
     MatTooltipModule,
     MatExpansionModule,
     MatDividerModule,
-    MatCardModule
+    MatCardModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
