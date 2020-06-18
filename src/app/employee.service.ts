@@ -29,7 +29,7 @@ export class EmployeeService {
     });
   }
 
-  public getJSON(): Observable<any> {
-    return this.httpService.get<any>('./assets/pracownicy.json');
+  public getJSON(): Observable<Employee[]> {
+    return this.httpService.get<Employee[]>('./assets/pracownicy.json');
   }
 }

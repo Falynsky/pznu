@@ -12,7 +12,7 @@ import {Publication} from '../publication';
 })
 export class EmployeePageComponent implements OnInit {
 
-  employees = new Array<any>();
+  employees: Employee[] = new Array<Employee>();
   currentPublications = new Array<Publication>();
   columnsToDisplay = ['id', 'autor', 'tytul', 'rok'];
   constructor(private employeeService: EmployeeService, private httpClient: HttpClient) {
@@ -26,7 +26,23 @@ export class EmployeePageComponent implements OnInit {
       //     value.room, value.tel, value.publications
       //   ));
       // }
-        this.employees = response;
+      // this.employees = response;
+
+      // @ts-ignore
+      response.forEach(value => this.employees.push(
+        new Employee(
+                value.name,
+                value.place,
+                value.adress,
+                value.room,
+                value.tel,
+                value.publications
+              )
+      ));
+
+
+
+
       //
       // });
       // response.map(
@@ -37,7 +53,7 @@ export class EmployeePageComponent implements OnInit {
       //       item.adress,
       //       item.room,
       //       item.tel,
-      //       new Array<any>(item.publications)
+      //       item.
       //     );
       //   }
       // );

@@ -20,6 +20,7 @@ import {MatCardModule} from "@angular/material/card";
 import { EmployeePageComponent } from './employee-page/employee-page.component';
 import { HttpClientModule} from '@angular/common/http';
 import {MatTableModule} from '@angular/material/table';
+import { CastPipe } from './cast.pipe';
 
 
 @NgModule({
@@ -30,7 +31,8 @@ import {MatTableModule} from '@angular/material/table';
     FooterComponent,
     ContactPageComponent,
     ResearchPageComponent,
-    EmployeePageComponent
+    EmployeePageComponent,
+    CastPipe
   ],
     imports: [
         BrowserModule,
