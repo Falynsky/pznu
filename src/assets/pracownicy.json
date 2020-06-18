@@ -1,5 +1,5 @@
-{
-  "employee": [
+[
+
     {
       "name": "Dr hab. Agnieszka Lisowska (kierownik)",
       "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
@@ -1204,5 +1204,5 @@
       "tel": "(032) 36 89 746",
       "publications": []
     }
-  ]
-}
+
+]

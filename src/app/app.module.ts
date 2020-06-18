@@ -19,6 +19,7 @@ import { ContactPageComponent } from './contact-page/contact-page.component';
 import {MatCardModule} from "@angular/material/card";
 import { EmployeePageComponent } from './employee-page/employee-page.component';
 import { HttpClientModule} from '@angular/common/http';
+import {MatTableModule} from '@angular/material/table';
 
 
 @NgModule({
@@ -31,20 +32,21 @@ import { HttpClientModule} from '@angular/common/http';
     ResearchPageComponent,
     EmployeePageComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatToolbarModule,
-    MatGridListModule,
-    MatIconModule,
-    MatButtonModule,
-    MatTooltipModule,
-    MatExpansionModule,
-    MatDividerModule,
-    MatCardModule,
-    HttpClientModule
-  ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        MatToolbarModule,
+        MatGridListModule,
+        MatIconModule,
+        MatButtonModule,
+        MatTooltipModule,
+        MatExpansionModule,
+        MatDividerModule,
+        MatCardModule,
+        HttpClientModule,
+        MatTableModule
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })

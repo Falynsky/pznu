@@ -1,21 +1,22 @@
 import { Injectable } from '@angular/core';
 import { HttpClient} from '@angular/common/http';
 import { Observable} from 'rxjs';
+import {Employee} from './employee';
 
-export interface Employee {
-  name: string;
-  place: string;
-  adress: string;
-  room: string;
-  tel: string;
-  publications: Publication[];
-}
-export interface Publication {
-  id: number;
-  Autor: string;
-  Tytul: string;
-  Rok: number;
-}
+// export interface Employee {
+//   name: string;
+//   place: string;
+//   adress: string;
+//   room: string;
+//   tel: string;
+//   publications: Publication[];
+// }
+// export interface Publication {
+//   id: number;
+//   Autor: string;
+//   Tytul: string;
+//   Rok: number;
+// }
 
 @Injectable({
   providedIn: 'root'
@@ -29,6 +30,6 @@ export class EmployeeService {
   }
 
   public getJSON(): Observable<any> {
-    return this.httpService.get('./assets/pracownicy.json');
+    return this.httpService.get<any>('./assets/pracownicy.json');
   }
 }
