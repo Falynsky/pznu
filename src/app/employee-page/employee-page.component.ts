@@ -14,7 +14,7 @@ export class EmployeePageComponent implements OnInit {
 
   employees: Employee[] = new Array<Employee>();
   currentPublications = new Array<Publication>();
-  columnsToDisplay = ['id', 'autor', 'tytul', 'rok'];
+  columnsToDisplay = [ 'autor', 'tytul', 'rok'];
   constructor(private employeeService: EmployeeService, private httpClient: HttpClient) {
   }
 
