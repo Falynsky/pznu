@@ -17,6 +17,8 @@ import {MatExpansionModule} from "@angular/material/expansion";
 import {MatDividerModule} from "@angular/material/divider";
 import { ContactPageComponent } from './contact-page/contact-page.component';
 import {MatCardModule} from "@angular/material/card";
+import { SubjectPageComponent } from './subject-page/subject-page.component';
+import {MatListModule} from '@angular/material/list';
 
 @NgModule({
   declarations: [
@@ -25,21 +27,23 @@ import {MatCardModule} from "@angular/material/card";
     ToolbarComponent,
     FooterComponent,
     ContactPageComponent,
-    ResearchPageComponent
+    ResearchPageComponent,
+    SubjectPageComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatToolbarModule,
-    MatGridListModule,
-    MatIconModule,
-    MatButtonModule,
-    MatTooltipModule,
-    MatExpansionModule,
-    MatDividerModule,
-    MatCardModule
-  ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        MatToolbarModule,
+        MatGridListModule,
+        MatIconModule,
+        MatButtonModule,
+        MatTooltipModule,
+        MatExpansionModule,
+        MatDividerModule,
+        MatCardModule,
+        MatListModule
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })
