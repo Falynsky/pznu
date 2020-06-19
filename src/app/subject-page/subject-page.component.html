@@ -1,0 +1,172 @@
+<div class="subjectPage">
+  <mat-accordion>
+    <div class="expansion-panel-container">
+      <h3 class="header">Przedmioty</h3>
+
+      <mat-expansion-panel>
+        <mat-expansion-panel-header class="subjectTopics">
+          <h4>„Grafika czasu rzeczywistego”</h4>
+        </mat-expansion-panel-header>
+        <div class="mat-expansion-panel-content">
+          Zajęcia są kontynuacją „Grafiki interaktywnej”. Są one poświęcone programowaniu grafiki z użyciem biblioteki
+          OpenGL w wersji 3.0 i wyższej w profilu rdzennym oraz języka OpenGL Shading Language (GLSL).
+          W odróżnieniu od grafiki interaktywnej na zajęciach główny nacisk będzie położony na użyciu programów
+          cieniowania (shaderów) do generowania grafiki w czasie rzeczywistym. W ramach zajęć omówione zostaną
+          dokładnie różne problemy związane z programowaniem grafiki działającej w czasie rzeczywistym.
+          Niektóre poruszane problemy to: różne modele oświetlenia, techniki teksturowania, funkcje szumu
+          (Perlina, Worleya itp.), mapowanie środowiska, mapowanie nierówności, mapowanie normali.
+          Ponadto przedstawione zostaną sposoby implementacji omawianych problemów za pomocą shaderów
+          (shaderów wierzchołków, fragmentów, geometrii i teselacji).
+        </div>
+      </mat-expansion-panel>
+
+      <mat-expansion-panel>
+        <mat-expansion-panel-header class="subjectTopics">
+          <h4>„Grafika interaktywna”</h4>
+        </mat-expansion-panel-header>
+        <div class="mat-expansion-panel-content">
+          Zajęcia poświęcone są zastosowaniom biblioteki OpenGL (wersja 2.1 oraz wyższe w profilu zgodnościowym)
+          w grafice interaktywnej i wizualizacji. Wybór biblioteki OpenGL jest podyktowany jej dużymi możliwościami
+          oraz tym, że jest dostępna na wiele platform systemowych (Windows, Linux, Mac OS).
+          <br>
+          <mat-list>
+            Ponadto biblioteka OpenGL jest podstawą do różnych jej odmian:
+            <ul>
+              <li>
+                OpenGL ES (odmiana dla systemów wbudowanych),
+              </li>
+              <li>
+                WebGL (odmiana dla przeglądarek internetowych),
+              </li>
+              <li>
+                OpenGL SC (odmiana do zastosowań, w których potrzebujemy wysokiej niezawodności, np. systemy medyczne,
+                awionika).
+              </li>
+            </ul>
+          </mat-list>
+
+          <mat-list>
+            W ramach zajęć przybliżone zostaną podstawy OpenGL:
+            <ul>
+              <li>
+                podstawowe prymitywy geometryczne,
+              </li>
+              <li>
+                przekształcenia i ich stos,
+              </li>
+              <li>
+                zasada działania i zastosowanie bufora głębokości,
+              </li>
+              <li>
+                oświetlenie,
+              </li>
+              <li>
+                podstawy teksturowania,
+              </li>
+              <li>
+                kwadryki,
+              </li>
+              <li>
+                krzywe i powierzchnie Beziera oraz NURBS,
+              </li>
+              <li>
+                mieszanie kolorów,
+              </li>
+              <li>
+                bufor szablonowy i akumulacyjny wraz z ich zastosowaniami w generowaniu różnych efektów.
+              </li>
+            </ul>
+          </mat-list>
+
+          <mat-list>
+            Oprócz podstaw poruszone zostaną również tematy nieco bardziej zaawansowane:
+            <ul>
+              <li>
+                różne mechanizmy przyspieszania wyświetlania grafiki (listy wyświetlania, tablice wierzchołków, VBO),
+              </li>
+              <li>
+                interakcja ze sceną 3D za pomocą myszki (przemieszczanie obiektów, obroty obiektów bez tzw. blokady
+                przegubu za pomocą kwaternionów).
+              </li>
+            </ul>
+          </mat-list>
+
+        </div>
+      </mat-expansion-panel>
+
+
+      <mat-expansion-panel>
+        <mat-expansion-panel-header class="subjectTopics">
+          <h4>„Projektowanie poziomów”</h4>
+        </mat-expansion-panel-header>
+        <div class="mat-expansion-panel-content">
+          Zajęcia poświęcone są poznawaniu i zastosowaniu jednego z najlepszych i najpopularniejszych silników służących
+          do tworzenia wieloplatwormowych gier komputerowych – Unreal Engine w darmowej wersji UDK.
+        </div>
+        <mat-list>
+          Tematyka zajęć obejmuje wszystkie podstawowe elementy składające się na tzw. level design, są to m.in.:
+          <ul>
+            <li>
+              tworzenie podstawy poziomu,
+            </li>
+            <li>
+              modelowanie terenu przy pomocy siatek oraz dodawanie roślinności,
+            </li>
+            <li>
+              modelowanie obiektów za pomocą techniki CSG (ang. Constructive Solid Geometry),
+            </li>
+            <li>
+              modyfikacje gotowych modeli,
+            </li>
+            <li>
+              tworzenie oraz dopasowanie tektur (diffuse, specular, normal) do modeli,
+            </li>
+            <li>
+              stosowanie oświetlenia statycznego i dynamicznego,
+            </li>
+            <li>
+              proste modyfikacje otoczenia w zależności od reakcji gracza (Kismet),
+            </li>
+            <li>
+              poznanie modułu Matinee oraz obsługa wirtualnej kamery.
+            </li>
+          </ul>
+        </mat-list>
+        <p></p>
+        Pełne możliwości silnika Unreal Engine przedstawia poniższy materiał wideo:
+        <p></p>
+        <p>
+          <iframe src="http://www.youtube.com/embed/HpTSK9aBP1c?rel=0" allowfullscreen="" frameborder="0"
+                  data-aspectratio="0.5625" data-origwidth="560" style="width: 560px; height: 315px;"></iframe>
+        </p>
+      </mat-expansion-panel>
+
+
+      <mat-expansion-panel>
+        <mat-expansion-panel-header class="subjectTopics">
+          <h4>„Techniki przetwarzania video”</h4>
+        </mat-expansion-panel-header>
+        <div class="mat-expansion-panel-content">
+          Celem przedmiotu jest zapoznanie słuchaczy z podstawami przetwarzania obrazów video mającymi zastosowania
+          praktyczne,
+          takimi jak detekcja ruchu czy śledzenie obiektów. Praktyczna część przedmiotu opiera się na zastosowaniu
+          biblioteki OpenCV do implementacji wybranych algorytmów. W części teoretycznej prezentowane są również
+          współczesne standardy kodowania filmów video.
+        </div>
+      </mat-expansion-panel>
+
+      <mat-expansion-panel>
+        <mat-expansion-panel-header class="subjectTopics">
+          <h4>„Wielorozdzielcza analiza obrazu”</h4>
+        </mat-expansion-panel-header>
+        <div class="mat-expansion-panel-content">
+          Celem przedmiotu jest zapoznanie słuchaczy z najnowszymi technikami przetwarzania obrazu cyfrowego mającymi
+          praktyczne zastosowania w dzisiejszych technologiach.
+          Tematem wykładu są wielorozdzielcze metody geometryczne ponieważ właśnie w taki sposób działa ludzki system
+          postrzegania. Metody te są efektywnie wykorzystywane do reprezentacji obrazów, odszumiania, kompresji, itp.
+        </div>
+      </mat-expansion-panel>
+
+    </div>
+  </mat-accordion>
+</div>
