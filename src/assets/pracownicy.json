@@ -1,0 +1,1218 @@
+[
+
+    {
+      "name": "Dr hab. Agnieszka Lisowska (kierownik)",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "128",
+      "tel": "(032) 36 89 746",
+      "email": "alisow@ux2.math.us.edu.pl",
+      "publications": [
+        {
+          "id": 1,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Polynomiography Based on the Non-standard Newton-like Root Finding Methods.\nAbstract and Applied Analysis, vol. 2015, Article ID 797594, 19 pages",
+          "Rok": 2015
+        },
+        {
+          "id": 2,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Non-standard Iterations.\nWSCG 2014 Poster Papers Proceedings, pp. 21-26",
+          "Rok": 2014
+        },
+        {
+          "id": 3,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Wielomianografia z niestandardową rodziną iteracji Eulera-Schrodera.\nSystemy Inteligencji Obliczeniowej, Katowice, pp. 75-85",
+          "Rok": 2014
+        },
+        {
+          "id": 4,
+          "Autor": "Lisowska, A.",
+          "Tytul": "Geometrical Multiresolution Adaptive Transforms.\n \nTheory and Applications. Springer",
+          "Rok": 2014
+        },
+        {
+          "id": 5,
+          "Autor": "Lisowska A.",
+          "Tytul": "Smoothlet Transform: Theory and Applications\nAdvances in Imaging and Electron Physics, Elsevier, Vol. 178, pp. 97-145",
+          "Rok": 2013
+        },
+        {
+          "id": 6,
+          "Autor": "Lisowska A.",
+          "Tytul": "Multiwedgelets in Image Denoising\nLecture Notes in Electrical Engineering, Springer, Dordrecht, Vol. 240, pp. 3-11",
+          "Rok": 2013
+        },
+        {
+          "id": 7,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Wielomianografia wyższych rzędów z iteracjami Manna i Ishikawy.\nSystemy Wspomagania Decyzji, Katowice, pp. 171-181",
+          "Rok": 2013
+        },
+        {
+          "id": 8,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Metody generowania estetycznych wzorów\nSystemy Wspomagania Decyzji, Katowice, pp. 331-339",
+          "Rok": 2012
+        },
+        {
+          "id": 9,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Polynomiography via Ishikawa and Mann Iterations\nLecture Notes in Computer Science, vol. 7431, pp. 305-313",
+          "Rok": 2012
+        },
+        {
+          "id": 10,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Automatyczne generowanie estetycznych wzorów za pomocą transformacji Gumowskiego-Miry\nSystemy Wspomagania Decyzji, Katowice, pp. 219-226",
+          "Rok": 2011
+        },
+        {
+          "id": 11,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Automatic Generation of Aesthetic Patterns with the Use of Dynamical Systems\nLecture Notes in Computer Science, vol. 6939, pp. 691-700",
+          "Rok": 2011
+        },
+        {
+          "id": 12,
+          "Autor": "Lisowska A.",
+          "Tytul": "Edge Detection by Sliding Wedgelets\nLecture Notes in Computer Science, Springer, Heidelberg, Vol. 6753, Part 1, pp. 50-57",
+          "Rok": 2011
+        },
+        {
+          "id": 13,
+          "Autor": "Lisowska A.",
+          "Tytul": "Smoothlets – Multiscale Functions for Adaptive Representations of Images\nIEEE Transactions on Image Processing, Vol. 20, No. 7, pp. 1777-1787",
+          "Rok": 2011
+        },
+        {
+          "id": 14,
+          "Autor": "Lisowska A.",
+          "Tytul": "Moments-Based Fast Wedgelet Transform\nJournal on Mathematical Imaging and Vision, Springer, Vol. 39, No. 2, pp. 180-192",
+          "Rok": 2011
+        },
+        {
+          "id": 15,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Nieliniowe podziały i fraktale\nSystemy Wspomagania Decyzji, Katowice, pp. 363-371",
+          "Rok": 2010
+        },
+        {
+          "id": 16,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "On Gumowski-Mira Aesthetic Superfractal Forms\nProceedings of The 2010 IRAST International Congress on Computer Applications and Computational Science, pp. 562-565",
+          "Rok": 2010
+        },
+        {
+          "id": 17,
+          "Autor": "Gdawiec K., Kotarski W., Lisowska A.",
+          "Tytul": "Fractal rendering of arbitrary Catmull-Clark surfaces\n7th Conference on Computer Methods and Systems, 26-27 November, Kraków, 401-406",
+          "Rok": 2009
+        },
+        {
+          "id": 18,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Superfractal forms\nMaplesoft",
+          "Rok": 2009
+        },
+        {
+          "id": 19,
+          "Autor": "Lisowska A.",
+          "Tytul": "Multiresolution Image Representations and their Applications\nUniwersytet Śląski, Katowice",
+          "Rok": 2009
+        },
+        {
+          "id": 20,
+          "Autor": "Lisowska A.",
+          "Tytul": "Efficient Denoising of Images with Smooth Geometry\nLecture Notes in Computer Science, Springer, Heidelberg, Vol. 5575, pp. 617-625",
+          "Rok": 2009
+        },
+        {
+          "id": 21,
+          "Autor": "Lisowska A.",
+          "Tytul": "Multiscale Moments-Based Edge Detection\nProceedings of EUROCON ’09 Conference, St.Petersburg, Rosja, pp. 1414-1419",
+          "Rok": 2009
+        },
+        {
+          "id": 22,
+          "Autor": "Lisowska A.",
+          "Tytul": "Image Denoising with Second Order Wedgelets, International Journal of Signal and Imaging Systems Engineering\nSpecial Issue on „Denoising”, accepted",
+          "Rok": 2008
+        },
+        {
+          "id": 23,
+          "Autor": "Lisowska A.",
+          "Tytul": "Geometrical Multiscale Noise Resistant Method of Edge Detection\nLecture Notes in Computer Science, Springer, Vol. 5112, pp. 182-191",
+          "Rok": 2008
+        },
+        {
+          "id": 24,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "The Read-Bajraktarevic Functional Equation and Selfsimilarity\nMaplesoft",
+          "Rok": 2008
+        },
+        {
+          "id": 25,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "A Note on Subdivision Curve\nMaplesoft",
+          "Rok": 2008
+        },
+        {
+          "id": 26,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Sierpinski Gasket with Control Points\nMaplesoft",
+          "Rok": 2007
+        },
+        {
+          "id": 27,
+          "Autor": "Kotarski W., Lisowska A., Domider R.",
+          "Tytul": "Macierze podziałów w modelowaniu fraktalnym kształtu 3D, Systemy Wspomagania Decyzji\nKatowice, Tom II, 156-165",
+          "Rok": 2007
+        },
+        {
+          "id": 28,
+          "Autor": "Kotarski W., Lisowska A., Domider R.",
+          "Tytul": "Superfractals in Graphical Object Modeling\nComputer Methods and Systems, Kraków, 329-334",
+          "Rok": 2007
+        },
+        {
+          "id": 29,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Solid Bodies\nComputer Methods and Systems, Computer Methods and Systems, Kraków, 323-328",
+          "Rok": 2007
+        },
+        {
+          "id": 30,
+          "Autor": "Lisowska A.",
+          "Tytul": "Second Order Wedgelets in Image Coding\nProceedings of EUROCON ’07 Conference, Warszawa, pp. 237-244",
+          "Rok": 2007
+        },
+        {
+          "id": 31,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Rendering of 3D Patches\nMaplesoft",
+          "Rok": 2006
+        },
+        {
+          "id": 32,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Teapot from Utah\nMaplesoft",
+          "Rok": 2006
+        },
+        {
+          "id": 33,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Volumes\nMaplesoft",
+          "Rok": 2006
+        },
+        {
+          "id": 34,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Rendering of 3D Shapes\nProceedings of IECON ’06 Conference, Paris, France, pp. 3391-3396",
+          "Rok": 2006
+        },
+        {
+          "id": 35,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fraktalny rendering krzywych i powierzchni, Systemy Wspomagania Decyzji\nZakopane, 294-300",
+          "Rok": 2005
+        },
+        {
+          "id": 36,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "On Fractal Modeling of 3D Curves and Wireframes\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 37,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "On Geometric Chaikin’s Approach to Fractal Modeling of Contours\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 38,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "A. Probabilistic Approach To Fractal Modeling of Shapes\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 39,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "A. On Fractal Modeling of Contours\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 40,
+          "Autor": "Kotarski W., Lisowska A., Kocjan K.",
+          "Tytul": "Fractal Modeling and Recognition of 2D Shapes\nComputer Methods and Systems, Vol. 2, 265-270",
+          "Rok": 2005
+        },
+        {
+          "id": 41,
+          "Autor": "Lisowska A., Kotarski W., Kownacki A.",
+          "Tytul": "Semi-Automatic Human Emotions Recognition Method Based on i2D Features\nJournal of Medical Informatics & Technologies, Vol. 9, 215-222",
+          "Rok": 2005
+        },
+        {
+          "id": 42,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Chaikin’s Approach to Fractal Modeling of Contours\nEUROCON ’05 Conference, Belgrad, Serbia i Czarnogóra, 21-24 listopad, 1192-1195",
+          "Rok": 2005
+        },
+        {
+          "id": 43,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "On Bezier-Fractal Modeling of 2D Shapes\nInternational Journal of Pure and Applied Mathematics, Vol. 24, No. 1, 123-134",
+          "Rok": 2005
+        },
+        {
+          "id": 44,
+          "Autor": "Lisowska A.",
+          "Tytul": "Intrinsic Dimensional Selective Operator Based on Geometrical Wavelets\nJournal of Applied Computer Science, Vol. 13, No. 1, pp. 99-112",
+          "Rok": 2005
+        },
+        {
+          "id": 45,
+          "Autor": "Lisowska A., Kotarski W.",
+          "Tytul": "Automatics perception of significant image features based on psychology of vision\nJournal of Medical Informatics and Technologies,Vol.7/2004,pp.MP-31-40",
+          "Rok": 2004
+        },
+        {
+          "id": 46,
+          "Autor": "Lisowska A.",
+          "Tytul": "Bent Beamlets – Efficient Tool in Image Coding\nAnnales UMCS Informatica AI, Vol. 2, pp. 217-225",
+          "Rok": 2004
+        },
+        {
+          "id": 47,
+          "Autor": "Lisowska A.",
+          "Tytul": "Extended Wedgelets – Geometrical Wavelets in Efficient Image Coding\nMachine Graphics & Vision, Vol. 13, No. 3, pp. 261-274",
+          "Rok": 2004
+        },
+        {
+          "id": 48,
+          "Autor": "Porwik P., Lisowska A.",
+          "Tytul": "The Haar-Wavelet Transform in Digital Image Processing: Its Status and Achievements\nMachine Graphics & Vision, Vol. 13, No. 1/2, pp. 79-98",
+          "Rok": 2004
+        },
+        {
+          "id": 49,
+          "Autor": "Porwik P., Lisowska A.",
+          "Tytul": "Practical 2D Signal Decomposition Design Based on Haar-Wavelet Transform\nJournal of Applied Computer Science, Vol. 12, No. 1, pp. 61-82",
+          "Rok": 2004
+        },
+        {
+          "id": 50,
+          "Autor": "Porwik P., Lisowska A.",
+          "Tytul": "The New Graphics Description of the Haar Wavelet Transform\nLecture Notes in Computer Science, Springer-Verlag, Vol. 3039, pp. 1-8",
+          "Rok": 2004
+        },
+        {
+          "id": 51,
+          "Autor": "Makieła M., Kotarski W., Lisowska A.",
+          "Tytul": "Automatic human face recognition method based on geometrical face features\nJournal of Medical Informatics and Technologies, Vol. 5, MI 47-55",
+          "Rok": 2003
+        },
+        {
+          "id": 52,
+          "Autor": "Lisowska A.",
+          "Tytul": "Efektywne kodowanie obrazów z wykorzystaniem falek geometrycznych\nMateriały konferencji naukowej „Systemy wspomagania decyzji”, Zakopane",
+          "Rok": 2003
+        },
+        {
+          "id": 53,
+          "Autor": "Lisowska A., Doroz R.",
+          "Tytul": "ola HVS w ocenie jakości obrazów zdarzeń drogowych\nrozdział w: Rejestracja i przetwarzanie danych w telematycznych systemach transportu, red. J. Piecha, Wydawnictwo Politechniki Śląskiej, Gliwice",
+          "Rok": 2003
+        },
+        {
+          "id": 54,
+          "Autor": "Porwik P., Będkowski K., Żelechowski Ł., Lisowska A.",
+          "Tytul": "Specialised Linux Software Aiding Work of Blind Persons\nJournal of Medical Informatics & Technologies, Vol. 5, pp. MI-145 – MI-153",
+          "Rok": 2003
+        },
+        {
+          "id": 55,
+          "Autor": "Lisowska A.",
+          "Tytul": "Nonlinear Weighted Median Filters in Dyadic Decomposition of Images\nAnnales UMCS Informatica AI, Vol. 1, pp. 157-164",
+          "Rok": 2003
+        },
+        {
+          "id": 56,
+          "Autor": "Wróbel K., Lisowska A.",
+          "Tytul": "Usage of the Hough Transform in Investigation the Similarity Between Normalized Images\nAdvanced Simulation of Systems ASIS’03, Sv. Hostyn, Czech Republic, pp. 143-148",
+          "Rok": 2003
+        },
+        {
+          "id": 57,
+          "Autor": "Lisowska A., Wróbel K.",
+          "Tytul": "Comparison of Different Methods of Evaluating Digital Images Similarity\nAdvanced Simulation of Systems ASIS’03, Sv. Hostyn, Czech Republic, pp. 29-34",
+          "Rok": 2003
+        },
+        {
+          "id": 58,
+          "Autor": "Lisowska A., Kotarski W.",
+          "Tytul": "The universal quality index medical images\nJournal of Medical Informatics and Technologies, Vol.3/2002, pp. MI 199-MI 206",
+          "Rok": 2002
+        },
+        {
+          "id": 59,
+          "Autor": "Lisowska A., Doroz R.",
+          "Tytul": "Uniwersalny wskaźnik jakości obrazów transportowych\nII Konferencja Telematyka i Bezpieczeństwo Ruchu Drogowego TiBRD’02, Katowice – Ustroń-Jaszowiec, pp. 144-151",
+          "Rok": 2002
+        }
+      ]
+    },
+    {
+      "name": "Prof. dr hab. inż. Wiesław Kotarski",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "102",
+      "tel": "(032) 36 89 727",
+      "email": "kotarski@ux2.math.us.edu.pl",
+      "publications": [
+        {
+          "id": 1,
+          "Autor": "Machnik G.T., Chodacki M., Kotarski W.",
+          "Tytul": "„Using Genetic Algorithm to Aesthetic Patterns Design”\n8th International Conference on Computational Collective Intelligence",
+          "Rok": 2016
+        },
+        {
+          "id": 2,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Polynomiography Based on the Non-standard Newton-like Root Finding Methods.\nAbstract and Applied Analysis, vol. 2015, Article ID 797594, 19 pages",
+          "Rok": 2015
+        },
+        {
+          "id": 3,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Non-standard Iterations.\nWSCG 2014 Poster Papers Proceedings, pp. 21-26",
+          "Rok": 2014
+        },
+        {
+          "id": 4,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Wielomianografia z niestandardową rodziną iteracji Eulera-Schrodera.\nSystemy Inteligencji Obliczeniowej, Katowice, pp. 75-85",
+          "Rok": 2014
+        },
+        {
+          "id": 5,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Wielomianografia wyższych rzędów z iteracjami Manna i Ishikawy.\nSystemy Wspomagania Decyzji, Katowice, pp. 171-181",
+          "Rok": 2013
+        },
+        {
+          "id": 6,
+          "Autor": "Domańska, D., Wojtylak, M. , Kotarski, W.",
+          "Tytul": "Visualization of Multidimensional Data in Explorative Forecast\nLecture Notes in Computer Science, vol. 7594, pp. 63–70",
+          "Rok": 2012
+        },
+        {
+          "id": 7,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Metody generowania estetycznych wzorów\nSystemy Wspomagania Decyzji, Katowice, pp. 331-339",
+          "Rok": 2012
+        },
+        {
+          "id": 8,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Polynomiography via Ishikawa and Mann Iterations\nLecture Notes in Computer Science, vol. 7431, pp. 305-313",
+          "Rok": 2012
+        },
+        {
+          "id": 9,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Automatyczne generowanie estetycznych wzorów za pomocą transformacji Gumowskiego-Miry\nSystemy Wspomagania Decyzji, Katowice, pp. 219-226",
+          "Rok": 2011
+        },
+        {
+          "id": 10,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Automatic Generation of Aesthetic Patterns with the Use of Dynamical Systems\nLecture Notes in Computer Science, vol. 6939, pp. 691-700",
+          "Rok": 2011
+        },
+        {
+          "id": 11,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Nieliniowe podziały i fraktale\nSystemy Wspomagania Decyzji, Katowice, pp. 363-371",
+          "Rok": 2010
+        },
+        {
+          "id": 12,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "On Gumowski-Mira Aesthetic Superfractal Forms\nProceedings of The 2010 IRAST International Congress on Computer Applications and Computational Science, pp. 562-565",
+          "Rok": 2010
+        },
+        {
+          "id": 13,
+          "Autor": "Kotarski W., Gdawiec K., Machnik G.T.",
+          "Tytul": "Basics of Modelling and Visualization\nUniwersytet Śląski, Katowice, 110 str.\nISBN 978-83-929710-1-6",
+          "Rok": 2009
+        },
+        {
+          "id": 14,
+          "Autor": "Domider R., Kotarski W.",
+          "Tytul": "Image transformation using fractals and superfractals\n7th Conference on Computer Methods and Systems, 26-27 November, Kraków, 397-400",
+          "Rok": 2009
+        },
+        {
+          "id": 15,
+          "Autor": "Gdawiec K., Kotarski W., Lisowska A.",
+          "Tytul": "Fractal rendering of arbitrary Catmull-Clark surfaces\n7th Conference on Computer Methods and Systems, 26-27 November, Kraków, 401-406",
+          "Rok": 2009
+        },
+        {
+          "id": 16,
+          "Autor": "Kotarski W., Gdawiec K., Machnik G.T.",
+          "Tytul": "Fractal based progressive representation of 2D contours\n7th Conference on Computer Methods and Systems, 26-27 November, Kraków, 407-412",
+          "Rok": 2009
+        },
+        {
+          "id": 17,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Superfractal forms\nMaplesoft",
+          "Rok": 2009
+        },
+        {
+          "id": 18,
+          "Autor": "Kotarski W., Gdawiec K.",
+          "Tytul": "Proste i odwrotne schematy podziału\nSystemy Wspomagania Decyzji, Katowice, 229-238",
+          "Rok": 2009
+        },
+        {
+          "id": 19,
+          "Autor": "Kotarski W.",
+          "Tytul": "Fraktalne modelowanie kształtu\nEXIT, Warszawa, stron 206",
+          "Rok": 2008
+        },
+        {
+          "id": 20,
+          "Autor": "Bahaa G.M., Kotarski W.",
+          "Tytul": "Optimality conditions for n x n infinite-order parabolic coupled systems with control constraints and general performance index\nIMA Journal of Mathematical Control and Information, Vol. 25, 49-57",
+          "Rok": 2008
+        },
+        {
+          "id": 21,
+          "Autor": "Domider R., Kotarski W.",
+          "Tytul": "Superfraktale\nSystemy Wspomagania Decyzji, 253-260, Katowice",
+          "Rok": 2008
+        },
+        {
+          "id": 22,
+          "Autor": "Gdawiec K., Kotarski W.",
+          "Tytul": "Fraktalne rozpoznawanie obiektów dwuwymiarowych\nSystemy Wspomagania Decyzji, 261-268, Katowice",
+          "Rok": 2008
+        },
+        {
+          "id": 23,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "The Read-Bajraktarevic Functional Equation and Selfsimilarity\nMaplesoft",
+          "Rok": 2008
+        },
+        {
+          "id": 24,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "A Note on Subdivision Curve\nMaplesoft",
+          "Rok": 2008
+        },
+        {
+          "id": 25,
+          "Autor": "Kotarski W., Bahaa G.M.",
+          "Tytul": "Optimality conditions for infinite order hyperbolic control problem with non-standard functional and time delay\nJournal of Information & Optimization Sciences,Vol.28, No.6, 315-334",
+          "Rok": 2007
+        },
+        {
+          "id": 26,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Sierpinski Gasket with Control Points\nMaplesoft",
+          "Rok": 2007
+        },
+        {
+          "id": 27,
+          "Autor": "Kotarski W., Lisowska A., Domider R.",
+          "Tytul": "Macierze podziałów w modelowaniu fraktalnym kształtu 3D, Systemy Wspomagania Decyzji\nKatowice, Tom II, 156-165",
+          "Rok": 2007
+        },
+        {
+          "id": 28,
+          "Autor": "Kotarski W., Lisowska A., Domider R.",
+          "Tytul": "Superfractals in Graphical Object Modeling\nComputer Methods and Systems, Kraków, 329-334",
+          "Rok": 2007
+        },
+        {
+          "id": 29,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Solid Bodies\nComputer Methods and Systems, Computer Methods and Systems, Kraków, 323-328",
+          "Rok": 2007
+        },
+        {
+          "id": 30,
+          "Autor": "Kotarski, W., H.A.El-Saify, M.A.Shehata",
+          "Tytul": "Minimum-time problem for infinite order parabolic lag system\nJournal of the Egyptian Mathematical Society, Vol. 15 (1)",
+          "Rok": 2007
+        },
+        {
+          "id": 31,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Rendering of 3D Patches\nMaplesoft",
+          "Rok": 2006
+        },
+        {
+          "id": 32,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Teapot from Utah\nMaplesoft",
+          "Rok": 2006
+        },
+        {
+          "id": 33,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Volumes\nMaplesoft",
+          "Rok": 2006
+        },
+        {
+          "id": 34,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fractal Rendering of 3D Shapes\nProceedings of IECON ’06 Conference, Paris, France, pp. 3391-3396",
+          "Rok": 2006
+        },
+        {
+          "id": 35,
+          "Autor": "Kotarski W., H.A. El-Saify",
+          "Tytul": "Optimality of the Boundary Control for n x n Parabolic Lag System\nJournal of Mathematical Analysis and Applications, Vol. 319, No. 1, 61-73",
+          "Rok": 2006
+        },
+        {
+          "id": 36,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Fraktalny rendering krzywych i powierzchni, Systemy Wspomagania Decyzji\nZakopane, 294-300",
+          "Rok": 2005
+        },
+        {
+          "id": 37,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "On Fractal Modeling of 3D Curves and Wireframes\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 38,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "On Geometric Chaikin’s Approach to Fractal Modeling of Contours\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 39,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "A. Probabilistic Approach To Fractal Modeling of Shapes\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 40,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "A. On Fractal Modeling of Contours\nMaplesoft",
+          "Rok": 2005
+        },
+        {
+          "id": 41,
+          "Autor": "Kotarski W., Lisowska A., Kocjan K.",
+          "Tytul": "Fractal Modeling and Recognition of 2D Shapes\nComputer Methods and Systems, Vol. 2, 265-270",
+          "Rok": 2005
+        },
+        {
+          "id": 42,
+          "Autor": "Lisowska A., Kotarski W., Kownacki A.",
+          "Tytul": "Semi-Automatic Human Emotions Recognition Method Based on i2D Features\nJournal of Medical Informatics & Technologies, Vol. 9, 215-222",
+          "Rok": 2005
+        },
+        {
+          "id": 43,
+          "Autor": "Kocjan K., Kotarski W.",
+          "Tytul": "Authomatic Plantography Database Searching Method\nJournal of Medical Informatics & Technologies, Vol. 9, 209-213",
+          "Rok": 2005
+        },
+        {
+          "id": 44,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "Chaikin’s Approach to Fractal Modeling of Contours\nEUROCON ’05 Conference, Belgrad, Serbia i Czarnogóra, 21-24 listopad, 1192-1195",
+          "Rok": 2005
+        },
+        {
+          "id": 45,
+          "Autor": "Kotarski W., Lisowska A.",
+          "Tytul": "On Bezier-Fractal Modeling of 2D Shapes\nInternational Journal of Pure and Applied Mathematics, Vol. 24, No. 1, 123-134",
+          "Rok": 2005
+        },
+        {
+          "id": 46,
+          "Autor": "Kotarski W., G.M.Bahaa",
+          "Tytul": "Optimal control problem for infinite order hyperbolic system with mixed control-state constraints\nEuropean Journal of Control, Vol. 11, No. 2, 150-156",
+          "Rok": 2005
+        },
+        {
+          "id": 47,
+          "Autor": "Sowiński M., Kotarski W.",
+          "Tytul": "Mathematics presentation technics on www pages\nProc. Distance Learning Workshop DLW’04 3-4, Sosnowiec, pp.113-123\nISBN 83-909518-6-X",
+          "Rok": 2004
+        },
+        {
+          "id": 48,
+          "Autor": "Kocjan K., Kotarski W.",
+          "Tytul": "An automatic footshape plantograms analysis based on a new shape measure\nJournal of Medical Informatics and Technologies, Vol.8/2004, II – 15-20",
+          "Rok": 2004
+        },
+        {
+          "id": 49,
+          "Autor": "Lisowska A., Kotarski W.",
+          "Tytul": "Automatics perception of significant image features based on psychology of vision\nJournal of Medical Informatics and Technologies,Vol.7/2004,pp.MP-31-40",
+          "Rok": 2004
+        },
+        {
+          "id": 50,
+          "Autor": "Kocjan K., Kotarski W.",
+          "Tytul": "Fourier analysis in classification of blood cells\nJournal of Medical Informatics and Technologies, Vol. 5, MI 61-66",
+          "Rok": 2003
+        },
+        {
+          "id": 51,
+          "Autor": "Makieła M., Kotarski W., Lisowska A.",
+          "Tytul": "Automatic human face recognition method based on geometrical face features\nJournal of Medical Informatics and Technologies, Vol. 5, MI 47-55",
+          "Rok": 2003
+        },
+        {
+          "id": 52,
+          "Autor": "Kotarski W., El-Saify H.A., Bahaa G.M.",
+          "Tytul": "Optimality conditions for nxn parabolic systems with control constraints and general performance index\nThe Egyptian Mathematical Society International Conference on Mathematics: Trends and Developments, Cairo, Egypt, 28-31",
+          "Rok": 2002
+        },
+        {
+          "id": 53,
+          "Autor": "Kotarski W., El-Saify H.A., Bahaa G.M.",
+          "Tytul": "Optimal control of parabolic equation with an infinite number of variables for non-standard functional and time delay\nIMA Journal of Mathematical Control and Information, Vol. 19, no. 4, pp.461-476",
+          "Rok": 2002
+        },
+        {
+          "id": 54,
+          "Autor": "Kotarski W., El-Saify H.A., Bahaa G.M.",
+          "Tytul": "Optimal control problem for a hyperbolic system with mixed control-state constraints involving operator of infinite order\nInternational Journal of Pure and Applied Mathematics, Vol . 1, no. 3, pp.241-254",
+          "Rok": 2002
+        },
+        {
+          "id": 55,
+          "Autor": "Kocjan K., Kotarski W.",
+          "Tytul": "Blood cells analysis based on simple geometrical shape descriptors\nJournal of Medical Informatics and Technologies, Vol.3/2002, pp. MI 207-MI 212",
+          "Rok": 2002
+        },
+        {
+          "id": 56,
+          "Autor": "Lisowska A., Kotarski W.",
+          "Tytul": "The universal quality index medical images\nJournal of Medical Informatics and Technologies, Vol.3/2002, pp. MI 199-MI 206",
+          "Rok": 2002
+        }
+      ]
+    },
+    {
+      "name": "Dr Miłosław Chodacki",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "130",
+      "tel": "(032) 36 89 747",
+      "email": "miloslaw.chodacki@us.edu.pl",
+      "publications": [
+        {
+          "id": 1,
+          "Autor": "Machnik G.T., Chodacki M., Kotarski W.",
+          "Tytul": "„Using Genetic Algorithm to Aesthetic Patterns Design”\n8th International Conference on Computational Collective Intelligence",
+          "Rok": 2016
+        },
+        {
+          "id": 2,
+          "Autor": "G.T. Machnik, M.Chodacki",
+          "Tytul": "Algorytmy genetyczne w projektowaniu wzorów przemysłowych\nSystemy inteligencji obliczeniowej, Katowice",
+          "Rok": 2014
+        },
+        {
+          "id": 3,
+          "Autor": "Machnik G.T., Chodacki M.",
+          "Tytul": "Ewolucyjne projektowanie wzorów użytkowych\nSystemy wspomagania decyzji, Zakopane 4 XII 2012",
+          "Rok": 2013
+        },
+        {
+          "id": 4,
+          "Autor": "Chodacki M., Badura D.",
+          "Tytul": "Autonomous Test Structures for Synchronous Sequential Circuits\nIEEE International Carpathian Control Conference ICCC 2012, Slovak Republic, Podbanske, 28-31 May, pp. 243-248",
+          "Rok": 2012
+        },
+        {
+          "id": 5,
+          "Autor": "Chodacki M.",
+          "Tytul": "Generatory testów fraktalnych w samotestowaniu układów cyfrowych\n  Systemy Wspomagania Decyzji, Katowice, pp. 325 – 335\nISBN 978-83-62462-03-2",
+          "Rok": 2011
+        },
+        {
+          "id": 6,
+          "Autor": "Chodacki M.",
+          "Tytul": "On Enhancing Diagnostic Effectiveness of Autonomous Test Structures for Digital Circuits of Medical Devices\nJournal of Medical Informatics & Technologies Vol. 16/2010, ISSN 1642-6037, pp. 51-57",
+          "Rok": 2010
+        },
+        {
+          "id": 7,
+          "Autor": "Chodacki M., Michalski D.",
+          "Tytul": "Genetic Algorithms Based on Stochastic Model for Pseudorandom Test Structure Design\nInternational Carpathian Control Conference ICCC 2009, Zakopane, Poland, May 24-27",
+          "Rok": 2009
+        },
+        {
+          "id": 8,
+          "Autor": "Chodacki M., Michalski D.",
+          "Tytul": "Genetic Algorithms in Pseudorandom Testing of Medical Digital Circuits\nJournal of Medical Informatics & Technologies, Vol. 13, pp. 209-214, ISSN 1642-6037",
+          "Rok": 2009
+        },
+        {
+          "id": 9,
+          "Autor": "Chodacki M., Gościniak I.",
+          "Tytul": "Built-In Self-Test Evolutionary Design\nProceedings of XXXIth International Autumn Colloquium Advanced Simulation of Systems ASIS 2009, Olomouc, Czech Republic, pp. 93-98\nISBN 978-80-86840-47-5",
+          "Rok": 2009
+        },
+        {
+          "id": 10,
+          "Autor": "Chodacki M., Badura D.",
+          "Tytul": "The stochastic model pseudorandom testing of digital sequential circuits\nProceedings of XXVIII th International Autumn Colloquium ASIS 2006 Advanced Simulation of Systems, Vranov near Brno 12-14 september, Czech Republic, pp. 148-151.Lp. 790",
+          "Rok": 2006
+        },
+        {
+          "id": 11,
+          "Autor": "Chodacki M., Badura D.",
+          "Tytul": "Evolutionary Models for Autonomous BIST Structures Designing\nProceedings of XXVIIth International Autumn Colloquium ASIS 2005 Advanced Simulation of Systems, Prerov 6-8 september, Czech Republic, pp. 144-150",
+          "Rok": 2005
+        },
+        {
+          "id": 12,
+          "Autor": "Chodacki M., Gościniak I., Badura D.",
+          "Tytul": "Genetic Programming for the BIST Structures Design\nProceedings 5th International Carpathian Control Conference ICCC 2004, Zakopane, Poland May 25 – 28, pp 53-58",
+          "Rok": 2004
+        },
+        {
+          "id": 13,
+          "Autor": "Gościniak I., Chodacki M.",
+          "Tytul": "Genetic algorithms for the designing feedback shift register\n6th IEEE International Workshop on Design and Diagnostics of Electronic Circuits and Systems, Poznań, Poland, April 14-16, pp. 301-302",
+          "Rok": 2003
+        },
+        {
+          "id": 14,
+          "Autor": "Chodacki M., Gościniak I.",
+          "Tytul": "The evolutionary algorithms for the designing BIST structures\n4th International Carpathian Control Conference ICCC 2003, Tatranska Lomnica, Slovakia",
+          "Rok": 2003
+        },
+        {
+          "id": 15,
+          "Autor": "Chodacki M., Badura D.",
+          "Tytul": "Ewolucyjne projektowanie układów BIST w środowisku wielo-populacyjnym w sieciach LAN\nProc. of XXVth International Colloquium, Advanced Simulation of Systems ASIS 2003, Sv. Hostyn Czech Republic",
+          "Rok": 2003
+        },
+        {
+          "id": 16,
+          "Autor": "Chodacki M.",
+          "Tytul": "The new methods based on the leaving of the best of individuals and the control a time-live individuals for BIST structure designing supported by evolutionary algorithms\nProceeding of 36th International Conference MOSIS’ 02 Modeling and Simulation of Systems, Roznov pod Radhostem, April 22-24, Czech Republic, pp. 21-26",
+          "Rok": 2002
+        },
+        {
+          "id": 17,
+          "Autor": "Chodacki M., Badura D.",
+          "Tytul": "Optymalizacja doboru rejestrów struktury BIST za pomocą algorytmów ewolucyjnych\nXXIVrd International Autumn Workshop Advanced Simulation of Systems- ASIS 2002, Krnov, Czech R. September 9-11, pp. 187-192",
+          "Rok": 2002
+        },
+        {
+          "id": 18,
+          "Autor": "Gościniak I., Chodacki M.",
+          "Tytul": "Algorytmy genetyczne w projektowaniu rejestrów z liniowym i nieliniowym sprzężeniem zwrotnym\nKonferencje Naukowa „Systemy Wspomagania Decyzji”. Zakopane 3-5 XII, pp. 144-156",
+          "Rok": 2002
+        },
+        {
+          "id": 19,
+          "Autor": "Chodacki M., Badura D.",
+          "Tytul": "Genetic Algorithms for BIST Structure Design\nASIS, Czech Republic, September 11 – 13, pp. 165-170",
+          "Rok": 2001
+        },
+        {
+          "id": 20,
+          "Autor": "Chodacki M.",
+          "Tytul": "Symulacja układów BIST w projektowaniu z wykorzystaniem algorytmów ewolucyjnych\nKonferencja Naukowa „Systemy Wspomagania Decyzji”, Zakopane 9-11 XII, pp.178-186",
+          "Rok": 2001
+        },
+        {
+          "id": 21,
+          "Autor": "Chodacki M.",
+          "Tytul": "Zaawansowane metody symulacji układów cyfrowych\nASIS, Czech Republic, September 12 – 14, pp. 259-264",
+          "Rok": 2000
+        }
+      ]
+    },
+    {
+      "name": "Dr hab. Krzysztof Gdawiec",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "101",
+      "tel": "(032) 36 89 701",
+      "email": "kgdawiec@ux2.math.us.edu.pl",
+      "site": "kgdawiec.bplaced.net",
+      "publications": [
+        {
+          "id": 1,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Polynomiography Based on the Non-standard Newton-like Root Finding Methods.\nAbstract and Applied Analysis, vol. 2015, Article ID 797594, 19 pages",
+          "Rok": 2015
+        },
+        {
+          "id": 2,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Non-standard Iterations.\nWSCG 2014 Poster Papers Proceedings, pp. 21-26",
+          "Rok": 2014
+        },
+        {
+          "id": 3,
+          "Autor": "Gdawiec, K.",
+          "Tytul": "Mandelbrot- and Julia-like Rendering of Polynomiographs.\n \nLecture Notes in Computer Science vol. 8671, pp. 25-32",
+          "Rok": 2014
+        },
+        {
+          "id": 4,
+          "Autor": "Gdawiec, K.",
+          "Tytul": "Star-shaped Set Inversion Fractals.\nFractals 22(4), 1450009, 7 pages",
+          "Rok": 2014
+        },
+        {
+          "id": 5,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Wielomianografia z niestandardową rodziną iteracji Eulera-Schrodera.\nSystemy Inteligencji Obliczeniowej, Katowice, pp. 75-85",
+          "Rok": 2014
+        },
+        {
+          "id": 6,
+          "Autor": "Gdawiec, K.",
+          "Tytul": "Polynomiography and Various Convergence Tests\nWSCG Communication Proceedings, pp. 15-20",
+          "Rok": 2013
+        },
+        {
+          "id": 7,
+          "Autor": "Gdawiec, K.",
+          "Tytul": "Aesthetic Patterns from the Perturbed Orbits of Discrete Dynamical Systems\nLecture Notes in Computer Science, vol. 8104, pp. 358-366",
+          "Rok": 2013
+        },
+        {
+          "id": 8,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Wielomianografia wyższych rzędów z iteracjami Manna i Ishikawy.\nSystemy Wspomagania Decyzji, Katowice, pp. 171-181",
+          "Rok": 2013
+        },
+        {
+          "id": 9,
+          "Autor": "Gdawiec, K., Domańska, D.",
+          "Tytul": "Recognition of Two-dimensional Shapes Based on Dependence Vectors\nLecture Notes in Artificial Intelligence , vol. 7267, pp. 501-508",
+          "Rok": 2012
+        },
+        {
+          "id": 10,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Metody generowania estetycznych wzorów\nSystemy Wspomagania Decyzji, Katowice, pp. 331-339",
+          "Rok": 2012
+        },
+        {
+          "id": 11,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Polynomiography via Ishikawa and Mann Iterations\nLecture Notes in Computer Science, vol. 7431, pp. 305-313",
+          "Rok": 2012
+        },
+        {
+          "id": 12,
+          "Autor": "Gdawiec, K., Domańska, D.",
+          "Tytul": "Partitioned Iterated Function Systems with Division and Fractal Dependence Graph in Recognition of 2D Shapes\nInternational Journal of Applied Mathematics and Computer Science 21(4) , pp. 757-767, IF 0.794",
+          "Rok": 2011
+        },
+        {
+          "id": 13,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Automatyczne generowanie estetycznych wzorów za pomocą transformacji Gumowskiego-Miry\nSystemy Wspomagania Decyzji, Katowice, pp. 219-226",
+          "Rok": 2011
+        },
+        {
+          "id": 14,
+          "Autor": "Gdawiec, K., Kotarski, W., Lisowska, A.",
+          "Tytul": "Automatic Generation of Aesthetic Patterns with the Use of Dynamical Systems\nLecture Notes in Computer Science, vol. 6939, pp. 691-700",
+          "Rok": 2011
+        },
+        {
+          "id": 15,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "Nieliniowe podziały i fraktale\nSystemy Wspomagania Decyzji, Katowice, pp. 363-371",
+          "Rok": 2010
+        },
+        {
+          "id": 16,
+          "Autor": "Kotarski, W., Gdawiec, K., Lisowska, A.",
+          "Tytul": "On Gumowski-Mira Aesthetic Superfractal Forms\nProceedings of The 2010 IRAST International Congress on Computer Applications and Computational Science, pp. 562-565",
+          "Rok": 2010
+        },
+        {
+          "id": 17,
+          "Autor": "Gdawiec, K.",
+          "Tytul": "Pseudofractal 2D Shape Recognition\nLecture Notes in Artficial Intelligence, vol. 6401, pp. 403-410",
+          "Rok": 2010
+        },
+        {
+          "id": 18,
+          "Autor": "Kotarski W., Gdawiec K., Machnik G.T.",
+          "Tytul": "Basics of Modelling and Visualization\nUniwersytet Śląski, Katowice, 110 str.\nISBN 978-83-929710-1-6",
+          "Rok": 2009
+        },
+        {
+          "id": 19,
+          "Autor": "Gdawiec K., Kotarski W., Lisowska A.",
+          "Tytul": "Fractal rendering of arbitrary Catmull-Clark surfaces\n7th Conference on Computer Methods and Systems, 26-27 November, Kraków, 401-406",
+          "Rok": 2009
+        },
+        {
+          "id": 20,
+          "Autor": "Kotarski W., Gdawiec K., Machnik G.T.",
+          "Tytul": "Fractal based progressive representation of 2D contours\n7th Conference on Computer Methods and Systems, 26-27 November, Kraków, 407-412",
+          "Rok": 2009
+        },
+        {
+          "id": 21,
+          "Autor": "Kotarski W., Gdawiec K.",
+          "Tytul": "Proste i odwrotne schematy podziału\nSystemy Wspomagania Decyzji, Katowice, 229-238",
+          "Rok": 2009
+        },
+        {
+          "id": 22,
+          "Autor": "Gdawiec, K.",
+          "Tytul": "Shape Recognition using Partitioned Iterated Function Systems\nAdvances in Intelligent and Soft Computing, vol. 59, pp. 451-458",
+          "Rok": 2009
+        },
+        {
+          "id": 23,
+          "Autor": "Gdawiec, K.J.",
+          "Tytul": "Fractal Recognition of Shapes\nIEEE Eurocon 2009, St. Petersburg, Russia, pp. 353-358",
+          "Rok": 2009
+        },
+        {
+          "id": 24,
+          "Autor": "Gdawiec, K.",
+          "Tytul": "Fractal Interpolation in Modeling of 2D Contours\nInternational Journal of Pure and Applied Mathematics 50(3), pp. 421-430",
+          "Rok": 2009
+        },
+        {
+          "id": 25,
+          "Autor": "Gdawiec K., Kotarski W.",
+          "Tytul": "Fraktalne rozpoznawanie obiektów dwuwymiarowych\nSystemy Wspomagania Decyzji, 261-268, Katowice",
+          "Rok": 2008
+        }
+      ]
+    },
+    {
+      "name": "Dr Ireneusz Gościniak",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "129",
+      "tel": "(032) 36 89 748",
+      "email": "ireneusz.gosciniak@us.edu.pl",
+      "publications": [
+        {
+          "id": 1,
+          "Autor": "Gościniak, I.",
+          "Tytul": "A New Approach to Particle Swarm Optimization Algorithm.\n Expert Systems with Applications 42(2), 844-854",
+          "Rok": 2015
+        },
+        {
+          "id": 2,
+          "Autor": "Gościniak, I.",
+          "Tytul": "Nowe ujęcie wybranych zagadnień optymalizacji.\n \nWydawnictwo Uniwersytetu Śląskiego, Katowice, ISBN: 978-83-8012-046-4",
+          "Rok": 2014
+        },
+        {
+          "id": 3,
+          "Autor": "Chodacki M., Gościniak I.",
+          "Tytul": "Built-In Self-Test Evolutionary Design\nProceedings of XXXIth International Autumn Colloquium Advanced Simulation of Systems ASIS 2009, Olomouc, Czech Republic, pp. 93-98\nISBN 978-80-86840-47-5",
+          "Rok": 2009
+        },
+        {
+          "id": 4,
+          "Autor": "Gościniak I.",
+          "Tytul": "Genetic Modyfication, Artificial Individual, Vaccine end Serum – Genetic Engineering in Evolutionaty Systems\nEvolutionary Computation And Global Optimization 2006, Oficyna wydawnicza Politechiki Warszawskiej, pp 147-154",
+          "Rok": 2006
+        },
+        {
+          "id": 5,
+          "Autor": "Gościniak I.",
+          "Tytul": "Multi-Valued Function Chains in Evolutionary Algorithm\nProceedings of International Conference on Computational Intelligence for Modelling, Control and Automation – CIMCA; 28-20, Vienna, Austria, IEEE, pp.41-46",
+          "Rok": 2005
+        },
+        {
+          "id": 6,
+          "Autor": "Gościniak I.",
+          "Tytul": "BIST Structure for ASIC Circuits\nProceedings of International Conference on Computational Intelligence for Modelling, Control and Automation – CIMCA; 28-20, Vienna, Austria, IEEE-pres, pp.840-845",
+          "Rok": 2005
+        },
+        {
+          "id": 7,
+          "Autor": "Gościniak I.",
+          "Tytul": "Multi-Valued Function Chains in Evolutionary Algorithm\nProceedings of International Conference on Computational Intelligence for Modelling, Control and Automation – CIMCA; 28-20, Vienna, Austria",
+          "Rok": 2005
+        },
+        {
+          "id": 8,
+          "Autor": "Gościniak I.",
+          "Tytul": "BIST Structure for ASIC Circuits\nProceedings of International Conference on Computational Intelligence for Modelling, Control and Automation – CIMCA; 28-20, Vienna, Austria",
+          "Rok": 2005
+        },
+        {
+          "id": 9,
+          "Autor": "Gościniak I.",
+          "Tytul": "Genetic Algorithms in Feedback Registers Designing\nProceedings of XXVIIth International Autumn Colloquium ASIS 2005 Advanced Simulation of Systems, 6-8 September in Přerov, Czech Republic, pp.74-79",
+          "Rok": 2005
+        },
+        {
+          "id": 10,
+          "Autor": "Gościniak I.",
+          "Tytul": "Zastosowanie łańcuchów funkcyjnych w algorytmach ewolucyjnych\nKonferencja Systemy Wspomaganie Decyzji, Zakopane",
+          "Rok": 2004
+        },
+        {
+          "id": 11,
+          "Autor": "Gościniak I., Kadłubek A., Mikielski M.",
+          "Tytul": "Internet GIS System Based on JAVA Technolgy\nKonferencja Geographical Information System in Research & Practice, Zagrzeb, Croatia, pp.205-210",
+          "Rok": 2004
+        },
+        {
+          "id": 12,
+          "Autor": "Gościniak I.",
+          "Tytul": "Genetic Programming in Feedback Registers Designing\nProceeding of IFAC Workshop on Programmmable Devices and Systems PDS 2004, organizator: Institute of Electronics Faculty of Automatic Control, Electronics and Computer Science Silesian University",
+          "Rok": 2004
+        },
+        {
+          "id": 13,
+          "Autor": "Gościniak I.",
+          "Tytul": "A New Approach to Linear Connectiones Building BIST Strukture Based on CSTP Strcture\nThe 19th IEEE International Symposiumon DEFECT and FAULT TOLERANCE in VLSI SYSTEM, Cannes, France 10-13 october, pp256-263",
+          "Rok": 2004
+        },
+        {
+          "id": 14,
+          "Autor": "Chodacki M., Gościniak I., Badura D.",
+          "Tytul": "Genetic Programming for the BIST Structures Design\nProceedings 5th International Carpathian Control Conference ICCC 2004, Zakopane, Poland May 25 – 28, pp 53-58",
+          "Rok": 2004
+        },
+        {
+          "id": 15,
+          "Autor": "Gościniak I., Chodacki M.",
+          "Tytul": "Genetic algorithms for the designing feedback shift register\n6th IEEE International Workshop on Design and Diagnostics of Electronic Circuits and Systems, Poznań, Poland, April 14-16, pp. 301-302",
+          "Rok": 2003
+        },
+        {
+          "id": 16,
+          "Autor": "Chodacki M., Gościniak I.",
+          "Tytul": "The evolutionary algorithms for the designing BIST structures\n4th International Carpathian Control Conference ICCC 2003, Tatranska Lomnica, Slovakia",
+          "Rok": 2003
+        },
+        {
+          "id": 17,
+          "Autor": "Gościniak I. i inni",
+          "Tytul": "Application of internet database in spatial management\nGIS Odyssey 2002, Geographical Information Systems International Conference and Exhibitoin, Split- Solin-Trodin-Kocula-Dobrownik, Chorwacja, September 2-6, pp 478-484",
+          "Rok": 2002
+        },
+        {
+          "id": 18,
+          "Autor": "Gościniak I., Chodacki M.",
+          "Tytul": "Algorytmy genetyczne w projektowaniu rejestrów z liniowym i nieliniowym sprzężeniem zwrotnym\nKonferencje Naukowa „Systemy Wspomagania Decyzji”. Zakopane 3-5 XII, pp. 144-156",
+          "Rok": 2002
+        }
+      ]
+    },
+    {
+      "name": "Dr Jolanta Socała",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "101",
+      "tel": "(032) 36 89 701",
+      "email": "jolanta.socala@us.edu.pl",
+      "publications": []
+    },
+    {
+      "name": "Dr Grzegorz Machnik",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "101",
+      "tel": "(032) 36 89 701",
+      "email": "grzegorz.machnik@us.edu.pl",
+      "site": "www.vr.us.edu.pl",
+      "publications": [
+        {
+          "id": 1,
+          "Autor": "Machnik G.T., Chodacki M., Kotarski W.",
+          "Tytul": "„Using Genetic Algorithm to Aesthetic Patterns Design”\n8th International Conference on Computational Collective Intelligence",
+          "Rok": 2016
+        },
+        {
+          "id": 2,
+          "Autor": "G.T. Machnik, M.Chodacki",
+          "Tytul": "Algorytmy genetyczne w projektowaniu wzorów przemysłowych\nSystemy inteligencji obliczeniowej, Katowice",
+          "Rok": 2014
+        },
+        {
+          "id": 3,
+          "Autor": "Machnik G.T., Chodacki M.",
+          "Tytul": "Ewolucyjne projektowanie wzorów użytkowych\nSystemy wspomagania decyzji, Zakopane 4 XII 2012",
+          "Rok": 2013
+        },
+        {
+          "id": 4,
+          "Autor": "Machnik G.T.",
+          "Tytul": "Google Docs service as statistical research automation tool in aspect of fractal patterns perception\nInternet in the Information Society, Computer Systems Architecture and Security, Dąbrowa Górnicza, str.151-158\nISBN 978-83-62897-40-7",
+          "Rok": 2013
+        },
+        {
+          "id": 5,
+          "Autor": "Machnik G.T.",
+          "Tytul": "Metody ograniczenia zakresu losowości mutacji na przykładzie fraktali IFS\nSystemy wspomagania decyzji, Zakopane 7 XII 2011, str.341-348\nISBN 978-83-62462-05-6",
+          "Rok": 2012
+        },
+        {
+          "id": 6,
+          "Autor": "Machnik G.T., Polak I.",
+          "Tytul": "Generowanie efektu mozaiki z wykorzystaniem internetowej wyszukiwarki grafiki\nSystemy wspomagania decyzji, Zakopane 9 XII 2010, str.345-351\nISBN 978-83-62462-03-2",
+          "Rok": 2011
+        },
+        {
+          "id": 7,
+          "Autor": "Machnik G.T.",
+          "Tytul": "Tworzenie wzorów użytkowych w oparciu o mutowane genetycznie struktury fraktalne\nSystemy wspomagania decyzji, Zakopane 8 XII 2010, str.337-344\nISBN 978-83-62462-03-2",
+          "Rok": 2011
+        },
+        {
+          "id": 8,
+          "Autor": "Kotarski W., Gdawiec K., Machnik G.T.",
+          "Tytul": "Basics of Modelling and Visualization\nUniwersytet Śląski, Katowice, 110 str.\nISBN 978-83-929710-1-6",
+          "Rok": 2009
+        },
+        {
+          "id": 9,
+          "Autor": "Kotarski W., Gdawiec K., Machnik G.T.",
+          "Tytul": "Fractal based progressive representation of 2D contours\n7th Conference on Computer Methods and Systems, 26-27 November, Kraków, 407-412",
+          "Rok": 2009
+        },
+        {
+          "id": 10,
+          "Autor": "Machnik G.T.",
+          "Tytul": "Symulacja i wizualizacja procesów ewolucji naturalnej\nSystemy Wspomagania Decyzji, Zakopane 4 XII 2008, str.333-341,\nISBN 978-83-920730-6-2",
+          "Rok": 2009
+        }
+      ]
+    },
+    {
+      "name": "Mgr Danuta Głownia (sekretariat)",
+      "place": "Wydział Informatyki i Nauki o Materiałach, Instytut Informatyki, Zakład Modelowania i Grafiki Komputerowej",
+      "adress": "ul. Będzińska 39 41-200 Sosnowiec",
+      "room": "426",
+      "tel": "(032) 36 89 746",
+      "email": "danuta.glownia@us.edu.pl",
+      "publications": []
+    }
+
+]

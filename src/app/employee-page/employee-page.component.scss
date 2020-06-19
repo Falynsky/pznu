@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+}
+
+.header {
+  font-weight: bold;
+  text-align: left;
+  font-size: 150%;
+}
+//
+//.container {
+//  width: 80%;
+//  margin-left: auto;
+//  margin-right: auto;
+//}
+.center {
+
+  padding-top: 30px;
+  min-height: 75%;
+  background-color: #fafafa;
+  align-content: center;
+}
+mat-card {
+  width: 80%;
+}
+.mytable-frame {
+  height: 400px;
+  overflow: auto;
+}
+table {
+  width: 100%;
+}
