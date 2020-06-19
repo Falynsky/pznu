@@ -15,7 +15,7 @@ import {Employee} from '../employee';
 export class EmployeePageComponent implements OnInit {
 
   employees: Employee[] = new Array<Employee>();
-  columnsToDisplay = ['id', 'autor', 'tytul', 'rok'];
+  columnsToDisplay = [ 'autor', 'tytul', 'rok'];
   constructor(private employeeService: EmployeeService) {
   }
 
