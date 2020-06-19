@@ -6,6 +6,7 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "128",
       "tel": "(032) 36 89 746",
+      "email": "alisow@ux2.math.us.edu.pl",
       "publications": [
         {
           "id": 1,
@@ -369,6 +370,7 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "102",
       "tel": "(032) 36 89 727",
+      "email": "kotarski@ux2.math.us.edu.pl",
       "publications": [
         {
           "id": 1,
@@ -714,6 +716,7 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "130",
       "tel": "(032) 36 89 747",
+      "email": "miloslaw.chodacki@us.edu.pl",
       "publications": [
         {
           "id": 1,
@@ -849,6 +852,8 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "101",
       "tel": "(032) 36 89 701",
+      "email": "kgdawiec@ux2.math.us.edu.pl",
+      "site": "kgdawiec.bplaced.net",
       "publications": [
         {
           "id": 1,
@@ -1008,6 +1013,7 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "129",
       "tel": "(032) 36 89 748",
+      "email": "ireneusz.gosciniak@us.edu.pl",
       "publications": [
         {
           "id": 1,
@@ -1125,6 +1131,7 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "101",
       "tel": "(032) 36 89 701",
+      "email": "jolanta.socala@us.edu.pl",
       "publications": []
     },
     {
@@ -1133,6 +1140,8 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "101",
       "tel": "(032) 36 89 701",
+      "email": "grzegorz.machnik@us.edu.pl",
+      "site": "www.vr.us.edu.pl",
       "publications": [
         {
           "id": 1,
@@ -1202,6 +1211,7 @@
       "adress": "ul. Będzińska 39 41-200 Sosnowiec",
       "room": "426",
       "tel": "(032) 36 89 746",
+      "email": "danuta.glownia@us.edu.pl",
       "publications": []
     }
 
