@@ -23,6 +23,8 @@ import {MatTableModule} from '@angular/material/table';
 import { CastPipe } from './cast.pipe';
 import { SubjectPageComponent } from './subject-page/subject-page.component';
 import {MatListModule} from '@angular/material/list';
+import {MatTreeModule} from '@angular/material/tree';
+
 
 @NgModule({
   declarations: [
@@ -50,7 +52,8 @@ import {MatListModule} from '@angular/material/list';
         MatCardModule,
         HttpClientModule,
         MatTableModule,
-        MatListModule
+        MatListModule,
+        MatTreeModule
     ],
   providers: [],
   bootstrap: [AppComponent]
