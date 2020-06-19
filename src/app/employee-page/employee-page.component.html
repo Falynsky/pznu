@@ -35,41 +35,47 @@
           </div>
           <div *ngIf="employee.publications.length != 0">
 
-            <h1>Lista publikacji </h1>
+            <mat-accordion>
+              <mat-expansion-panel class="mat-elevation-z0">
+                <mat-expansion-panel-header>
+                  <h1>Lista publikacji </h1>
+                </mat-expansion-panel-header>
+                <div class="mat-expansion-panel-content">
+                  <table mat-table [dataSource]="employee.publications" class="mytable-frame">
 
+                    <!--- Note that these columns can be defined in any order.
+                          The actual rendered columns are set as a property on the row definition" -->
 
-            <table mat-table [dataSource]="employee.publications" class="mytable-frame">
+                    <!-- Position Column -->
+                    <ng-container matColumnDef="id">
+                      <th mat-header-cell *matHeaderCellDef> Id</th>
+                      <td mat-cell *matCellDef="let element "> {{element.id | cast }} </td>
+                    </ng-container>
 
-              <!--- Note that these columns can be defined in any order.
-                    The actual rendered columns are set as a property on the row definition" -->
+                    <!-- Name Column -->
+                    <ng-container matColumnDef="autor">
+                      <th mat-header-cell *matHeaderCellDef> Autor</th>
+                      <td mat-cell *matCellDef="let element"> {{element.Autor | cast}} </td>
+                    </ng-container>
 
-              <!-- Position Column -->
-              <ng-container matColumnDef="id">
-                <th mat-header-cell *matHeaderCellDef> Id</th>
-                <td mat-cell *matCellDef="let element "> {{element.id | cast }} </td>
-              </ng-container>
+                    <!-- Weight Column -->
+                    <ng-container matColumnDef="tytul">
+                      <th mat-header-cell *matHeaderCellDef> Tytuł</th>
+                      <td mat-cell *matCellDef="let element"> {{element.Tytul | cast }} </td>
+                    </ng-container>
 
-              <!-- Name Column -->
-              <ng-container matColumnDef="autor">
-                <th mat-header-cell *matHeaderCellDef> Autor</th>
-                <td mat-cell *matCellDef="let element"> {{element.Autor | cast}} </td>
-              </ng-container>
+                    <!-- Symbol Column -->
+                    <ng-container matColumnDef="rok">
+                      <th mat-header-cell *matHeaderCellDef> Rok</th>
+                      <td mat-cell *matCellDef="let element"> {{element.Rok | cast }} </td>
+                    </ng-container>
 
-              <!-- Weight Column -->
-              <ng-container matColumnDef="tytul">
-                <th mat-header-cell *matHeaderCellDef> Tytuł</th>
-                <td mat-cell *matCellDef="let element"> {{element.Tytul | cast }} </td>
-              </ng-container>
-
-              <!-- Symbol Column -->
-              <ng-container matColumnDef="rok">
-                <th mat-header-cell *matHeaderCellDef> Rok</th>
-                <td mat-cell *matCellDef="let element"> {{element.Rok | cast }} </td>
-              </ng-container>
-
-              <tr mat-header-row *matHeaderRowDef="columnsToDisplay ; sticky: true"></tr>
-              <tr mat-row *matRowDef="let myRowData; columns: columnsToDisplay"></tr>
-            </table>
+                    <tr mat-header-row *matHeaderRowDef="columnsToDisplay ; sticky: true"></tr>
+                    <tr mat-row *matRowDef="let myRowData; columns: columnsToDisplay"></tr>
+                  </table>
+                </div>
+              </mat-expansion-panel>
+            </mat-accordion>
           </div>
 
 
