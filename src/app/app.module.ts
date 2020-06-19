@@ -11,17 +11,18 @@ import { ToolbarComponent } from './toolbar/toolbar.component';
 import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
 import { FooterComponent } from './footer/footer.component';
-import {MatTooltipModule} from "@angular/material/tooltip";
+import {MatTooltipModule} from '@angular/material/tooltip';
 import { ResearchPageComponent } from './research-page/research-page.component';
-import {MatExpansionModule} from "@angular/material/expansion";
-import {MatDividerModule} from "@angular/material/divider";
+import {MatExpansionModule} from '@angular/material/expansion';
+import {MatDividerModule} from '@angular/material/divider';
 import { ContactPageComponent } from './contact-page/contact-page.component';
-import {MatCardModule} from "@angular/material/card";
+import {MatCardModule} from '@angular/material/card';
 import { EmployeePageComponent } from './employee-page/employee-page.component';
 import { HttpClientModule} from '@angular/common/http';
 import {MatTableModule} from '@angular/material/table';
 import { CastPipe } from './cast.pipe';
-
+import { SubjectPageComponent } from './subject-page/subject-page.component';
+import {MatListModule} from '@angular/material/list';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { CastPipe } from './cast.pipe';
     ContactPageComponent,
     ResearchPageComponent,
     EmployeePageComponent,
-    CastPipe
+    CastPipe,
+    SubjectPageComponent
   ],
     imports: [
         BrowserModule,
@@ -47,7 +49,8 @@ import { CastPipe } from './cast.pipe';
         MatDividerModule,
         MatCardModule,
         HttpClientModule,
-        MatTableModule
+        MatTableModule,
+        MatListModule
     ],
   providers: [],
   bootstrap: [AppComponent]
