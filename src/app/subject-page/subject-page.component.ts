@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './subject-page.component.html',
   styleUrls: ['./subject-page.component.scss'],
   styles: [`
-    ::ng-deep .researchTopics > .mat-expansion-indicator:after {
+    ::ng-deep .subjectTopics > .mat-expansion-indicator:after {
       color: #ff4081;
     }
   `]
