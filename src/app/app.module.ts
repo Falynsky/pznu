@@ -21,6 +21,7 @@ import { EmployeePageComponent } from './employee-page/employee-page.component';
 import { HttpClientModule} from '@angular/common/http';
 import {MatTableModule} from '@angular/material/table';
 import { CastPipe } from './cast.pipe';
+import {MatTreeModule} from '@angular/material/tree';
 
 
 @NgModule({
@@ -47,7 +48,8 @@ import { CastPipe } from './cast.pipe';
         MatDividerModule,
         MatCardModule,
         HttpClientModule,
-        MatTableModule
+        MatTableModule,
+        MatTreeModule
     ],
   providers: [],
   bootstrap: [AppComponent]
